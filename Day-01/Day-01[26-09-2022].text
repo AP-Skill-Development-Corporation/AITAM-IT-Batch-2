@@ -1,0 +1,110 @@
+Day-01[26-09-2022]:
+===================
+	Good Morning to All...
+
+	Python:
+	=======
+
+	Python Downloads:
+	=================
+		> browser
+		> python.org
+		> downloads
+		> select the operating system
+		> After clicking on downloads we can observe 2 columns
+			-> stable release [Main file]
+			-> pre release [For Developing]
+		> Select the particular version of python by clicking shortcut
+			i.e, cntrl + f
+		> type python 3.xxxx version
+		> We can observe some files such as
+			-> x86-64 help
+			-> x86-64 embedded zip file
+			-> x86-64 executeable file
+			-> x86-64 web based installer
+			-> x86 help
+			-> x86 embedded zip file
+			-> x86 executeable file
+			-> x86 web based installer
+		> We need to select the executeable file to download the software for windows because it supports .exe file extensions
+		> Click on the bit type of version and download the file
+		> It will downloads the file automatically while clicking on the file extension.
+
+	Python Installation:
+	====================
+		> After Downloading we need to double tap the file then it will displays a dialogue window for further installation
+		> It displays 2 options and 2 checkboxes
+			> 2 options they are:
+				-> Install now [Default path]
+				-> Custom Installation [User Selected path]
+			> 2 checkboxes they are:
+				-> Install for all Users
+				-> Add python 3.xxxx for path
+		> We need to check those 2 checkboxes and need to select "Install Now" for further installation
+		> Finally it will installs and it displays as "finish" to close the installation process
+
+	Python Version Check:
+	=====================
+		> cmd
+		> python -V
+
+	Pip:
+	====
+		> To install third party packages we need to use pip command
+		Syntax:
+		=======
+			> cmd
+			> pip install "packagename"
+
+	Pip Version Check:
+	==================
+		> cmd
+		> pip -V
+	
+	Pip Upgrade:
+	============
+		> cmd
+		> python -m pip install --upgrade pip
+	
+	Windows 7-64:
+	=============
+		> cmd
+		> python -m pip install pip==22.2
+		> python -m pip -V
+
+	Jupyter Notebook Installation:
+	==============================
+		> cmd
+		> pip install jupyter notebook
+
+		Execution:
+		==========
+		> cmd
+		> jupyter notebook
+
+	for iterationvariablename in range(start,stop,step):
+	    //statements
+
+	for iteraionvariablename in iterator:
+		//statements
+
+	Django Installation:
+	====================
+		> cmd
+		> pip install django==3.0 [Particular Version]
+					or
+		  pip install django [Latest Version Installation]
+		> In Windows 7 we need to use the command such as
+			-> python -m pip install django==3.0
+
+	Django Version check:
+	=====================
+		> cmd
+		> django-admin --version
+
+	Project Creation:
+	=================
+		> cmd
+		> django-admin startproject "projectname"
+
+	
