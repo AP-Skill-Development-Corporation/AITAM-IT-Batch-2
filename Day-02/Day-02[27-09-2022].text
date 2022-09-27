@@ -1,0 +1,20 @@
+Day-02[27-09-2022]:
+===================
+	Good Morning to All...
+
+	Python Concepts:
+	================
+		- Variables
+		- Types of Variable assignments
+		- Data types
+		- Input and Output Formatting
+		- Data Structures like [List,Tuple,Set and Dictionary]
+		- Function types and argument types
+		- Packages and Modules with variable and Function access
+
+	Execution of a Project:
+	=======================
+		> cmd
+		> manage.py runserver
+				or
+		  python manage.py runserver
