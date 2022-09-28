@@ -11,3 +11,12 @@
   - Packages and Modules with variable and function access
   - Admin App Overview
   - Running of a project
+
+## Day-03(28-09-2022):
+  - Introduction to Django,Advantages,Disadvantages and applications of Django
+  - MVC and MVT Design Pattern
+  - Architecture of Django
+  - UserApp Creation and Overview of files in UserApp
+  - Url Creation,Dynamic Url Mapping
+  - Interface between urls and views
+  - Http Response and Request
