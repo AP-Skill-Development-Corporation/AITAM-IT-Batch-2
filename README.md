@@ -20,3 +20,10 @@
   - Url Creation,Dynamic Url Mapping
   - Interface between urls and views
   - Http Response and Request
+
+## Day-04(29-09-2022):
+  - Django Template
+  - Interface between controller and a template
+  - Static File Handling
+  - Data rendering from controller to template and template to controller and then controller to another template file
+  
