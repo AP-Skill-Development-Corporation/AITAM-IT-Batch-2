@@ -26,4 +26,10 @@
   - Interface between controller and a template
   - Static File Handling
   - Data rendering from controller to template and template to controller and then controller to another template file
-  
+ 
+## Day-05(30-09-2022):
+  - Model Creation
+  - Makemigrations and migrate
+  - ORM Queries(Django Shell)
+  - CRUD Operations
+  - Template Blocks
