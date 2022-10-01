@@ -33,3 +33,10 @@
   - ORM Queries(Django Shell)
   - CRUD Operations
   - Template Blocks
+
+## Day-06(01-10-2022):
+  - Introduction to Bootstrap4, Grid System,form controllrtrs
+  - Form Creation
+  - Form Validations, Widgets
+  - Message Concept
+  - User Registration and Authentication
